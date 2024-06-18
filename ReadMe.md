@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on Django Rest and React projects<br>👯 I'm looking to collaborate on projects that make me learn more<br>🤝 I'm looking for help with JavaScript<br>🌱 I'm currently learning TypeScript and Node.js (Front-end technologies)<br>💬 Ask me about OOP, Java or Python<br>⚡ Curious fact is that working in a group really does me good
+🔭 I'm currently working on Django Rest and React projects<br>👯 I'm looking to collaborate on projects that make me learn more<br>🤝 I'm looking for help with JavaScript<br>🌱 I'm currently learning TypeScript and Node.js <br>💬 Ask me about OOP, Java or Python<br>⚡ Curious fact is that working in a group really does me good
 
 
 ## 🌐 Socials:
