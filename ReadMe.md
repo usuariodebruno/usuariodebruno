@@ -9,7 +9,7 @@ Frontend na **RoboCup Brasil**. 🤖
 
 🏆 Coautor de sistemas patenteados no **INPI**
 
-💼 Experiência consolidada em órgãos como **SEEC-RN**, **TRT21** e **ESIG Software**,. 
+💼 Experiência consolidada em órgãos como **SEEC-RN**, **TRT21** e **ESIG Software**. 
 
 ⚡ Entusiasta de **DevOps**, arquitetura de software e trabalho colaborativo. 
 
