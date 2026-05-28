@@ -3,7 +3,7 @@
 🔭 **Analista, Desenvolvedor de Sistemas e Pesquisador** focado em arquitetura de sistemas corporativos e robustos. 
 Frontend na **RoboCup Brasil**. 🤖 
 
-🚀 Atualmente atuando em projetos com **Java (JSF)**, **PHP** e **Angular**. 
+🚀 Atualmente atuando em projetos com **Java**, **PHP** e **Angular**. 
 
 🔬 Pesquisador na área de **extração de funcionalidades de código-fonte** e análise estática. 
 
