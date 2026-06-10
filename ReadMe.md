@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 🔭 **Analista, Desenvolvedor de Sistemas e Pesquisador** focado em arquitetura de sistemas corporativos e robustos. 
-Frontend na **RoboCup Brasil**. 🤖 
+ 🤖 
 
 🚀 Atualmente atuando em projetos com **Java**, **PHP** e **Angular**. 
 
